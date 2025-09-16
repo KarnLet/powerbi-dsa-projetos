@@ -19,4 +19,4 @@ O objetivo é registrar meu aprendizado em **Business Intelligence, análise de 
 - **Descrição:** Este projeto analisa dados comerciais, com foco em métricas de vendas, performance por produto e insights estratégicos para apoiar decisões de negócio.  
 - **Dataset:** [Dados_Comerciais.xlsx](./Dados_Comerciais.xlsx)  
 - **Relatório Power BI:** [Mini-Projeto2.pbix](./Mini-Projeto2.pbix)  
-- **Link para relatório online:** _(ainda não publicado)_  
+- **Link para relatório online:**Link para relatório online:** [Acesse aqui](https://app.powerbi.com/groups/me/reports/d75ffa0b-cc81-458e-ae31-2ed44a505b3f?experience=power-bi)  
