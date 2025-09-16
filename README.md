@@ -20,5 +20,3 @@ O objetivo é registrar meu aprendizado em **Business Intelligence, análise de 
 - **Dataset:** [Dados_Comerciais.xlsx](./Dados_Comerciais.xlsx)  
 - **Relatório Power BI:** [Mini-Projeto2.pbix](./Mini-Projeto2.pbix)  
 - **Link para relatório online:** _(ainda não publicado)_  
-
-![Dashboard Preview](./images/dashboard_preview.png)
