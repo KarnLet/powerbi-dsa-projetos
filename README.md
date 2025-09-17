@@ -20,3 +20,11 @@ O objetivo é registrar meu aprendizado em **Business Intelligence, análise de 
 - **Dataset:** [Dados_Comerciais.xlsx](./Dados_Comerciais.xlsx)  
 - **Relatório Power BI:** [Mini-Projeto2.pbix](./Mini-Projeto2.pbix)  
 - **Link para relatório online:** [Acesse aqui](https://app.powerbi.com/groups/me/reports/d75ffa0b-cc81-458e-ae31-2ed44a505b3f?experience=power-bi)  
+
+## 3️⃣ Análise de Dados de RH
+
+- **Descrição:** Este projeto analisa dados de Recursos Humanos, com foco em turnover, distribuição de colaboradores e indicadores de gestão de pessoas.  
+- **Dataset:** [Dados_RH](./Dados_RH)  
+- **Relatório Power BI:** [Mini-Projeto3.pbix](./Mini-Projeto3.pbix)  
+- **Link para relatório online:** [Acesse aqui](https://app.powerbi.com/links/hzgYhZtxSM?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)  
+
